@@ -3,11 +3,11 @@ virtual_iterator
 
 Iterators that enables runtime polymorphism
 
-*virtual_bidirectional_iterator< T, Ref, Ptr, Dist >
-*virtual_forward_iterator< T, Ref, Ptr, Dist >
-*virtual_input_iterator< T, Ref, Ptr, Dist >
-*virtual_output_iterator< T >
-*virtual_random_access_iterator< T, Ref, Ptr, Dist >
+* virtual_bidirectional_iterator< T, Ref, Ptr, Dist >
+* virtual_forward_iterator< T, Ref, Ptr, Dist >
+* virtual_input_iterator< T, Ref, Ptr, Dist >
+* virtual_output_iterator< T >
+* virtual_random_access_iterator< T, Ref, Ptr, Dist >
 
 ## Example code
 
@@ -28,5 +28,5 @@ Iterators that enables runtime polymorphism
 
 ## Tested under
 
-*Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
-*Borland C++ 5.5.1 for Win32
+* Microsoft(R) 32-bit C/C++ Optimizing Compiler Version 16.00.40219.01 for 80x86
+* Borland C++ 5.5.1 for Win32
